@@ -1,4 +1,6 @@
 # Django settings for blog project.
+import posgresql
+import dj-database
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
