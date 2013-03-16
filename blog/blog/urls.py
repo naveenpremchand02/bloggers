@@ -1,5 +1,5 @@
 from django.conf.urls import patterns, include, url,guest
-from blogs.views import mainpage,newpost,createuser,login,logout,logincheck,guestpage
+from blogs.views import mainpage,newpost,createuser,login,logout,logincheck
 
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
